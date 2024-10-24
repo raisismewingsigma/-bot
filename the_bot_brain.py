@@ -26,7 +26,7 @@ async def heh(ctx, count_heh = 5):
 
 @bot.command()
 async def story(ctx):
-    await ctx.send('in a universe,a human kill all underground monster,he reset for many times to kill and kill,but...the reset has begun a alternate timelines,and the human kill over and over,until the human bring together the judges of the 3 universes,the judges of 3 try to stop him,but they always failed,until they use tey recalled knowledge to fight,end')
+    await ctx.send('once upon ago,in the jungle of amazon,live a titan anacondas,and the monster,but,suddenly,after the final quake of mesozoikum,the titan anacondas turns into a ancondas,end')
 
 @bot.command()
 async def joke(ctx):
