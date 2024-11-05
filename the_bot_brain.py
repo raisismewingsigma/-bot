@@ -36,4 +36,13 @@ async def joke(ctx):
 async def frick(ctx):
     await ctx.send('your face is like a gorilla')
 
+@bot.command()
+async def trashedu(ctx):
+    await ctx.send(f'Trash is a material/item that is not used, most of the trash is dangerous for the environment such as anorganic and B3 trash, but there is also useful trash such as organic trash')
+
+@bot.command()
+async def trash2r(ctx):
+    await ctx.send(f'Trash can be recycled and reused, reuse is using trash again but not changing the shape of the trash, such as glass cups that become flower vases, recycling is reusing trash by changing its shape, such as dirt can become biogas')
+
+
 bot.run("")
